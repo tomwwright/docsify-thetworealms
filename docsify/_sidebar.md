@@ -4,3 +4,6 @@
   - [Events](Events)
   - [Lore](Lore)
   - [Factions](Factions)
+- [Adventures](Adventures)
+- [SIFRP Character Sheet](SIFRP+Character+Sheet)
+- [SIFRP Rules Reference](SIFRP+Rules+Reference)
