@@ -1,0 +1,8 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - mkdir docsify
+      - cp -v "$CODEBUILD_SRC_DIR_BacklinkedContent" docsify/content
+      - cp -v "$CODEBUILD_SRC_DIR_Content/assets" docsify/assets
