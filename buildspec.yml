@@ -5,6 +5,6 @@ phases:
     commands:
       - mkdir -p docsify
       - cp -vr "$CODEBUILD_SRC_DIR_BacklinkedContent" docsify/content
-      - cp -vr "$CODEBUILD_SRC_DIR_Content/assets" docsify/assets
+      - cp -vr "$CODEBUILD_SRC_DIR_Content/content/assets" docsify/assets
       - aws s3 sync docsify s3://docsify-thetworealms-test --delete --no-progress
       - aws cloudfront create-invalidation --distribution-id E30JNS0PCOG7V7 --paths "/*"
