@@ -7,5 +7,14 @@
   - [Factions](Factions)
   - [Minor Factions](Minor+Factions)
 - [Adventures](Adventures)
+  - [I. Tidings to Hodden Estate](Tidings+to+Hodden+Estate)
+  - [II. Tulberry Horror](Tulberry+Horror)
+  - [III. Beneath the Fogs of Eddy Cove](Beneath+the+Fogs+of+Eddy+Cove)
+- [Index](Index)
+
+---
+
 - [SIFRP Character Sheet](SIFRP+Character+Sheet)
 - [SIFRP Rules Reference](SIFRP+Rules+Reference)
+
+---
