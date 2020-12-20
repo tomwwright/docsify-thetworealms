@@ -10,6 +10,7 @@
   - [I. Tidings to Hodden Estate](Tidings+to+Hodden+Estate)
   - [II. Tulberry Horror](Tulberry+Horror)
   - [III. Beneath the Fogs of Eddy Cove](Beneath+the+Fogs+of+Eddy+Cove)
+  - [IV. Ritual on the Three Watchers](Ritual+on+the+Three+Watchers)
 - [Index](Index)
 
 ---
